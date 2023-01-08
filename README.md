@@ -1,3 +1,5 @@
+[THE 3 FIGURES PROVIDED ARE EXAMPLES OF THE GOALS OF THIS REPOSITORY]
+
 Files used to plot a 3D visualization of Projected Density of States for a heterostructure of semiconductors.
 
 It is required the POSCAR file of the unrelaxed heterostructure (used on atomlayers.py file) and the DOSCAR file with a specific amount of points. First run criaFilePerAtom.py file and use plotDOS.py for plotting a 3D or colormap for visualization. If all 'camadas' files plot a DOS graphic, running the pre-plotDOS.py is required before former visualization.
